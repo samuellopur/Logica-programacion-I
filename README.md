@@ -1,2 +1,2 @@
 # Logica-programacion-I
-Ejercicios de lógica en Java Script
+Ejercicios de lógica en Javascript
